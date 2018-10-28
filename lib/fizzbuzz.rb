@@ -1,3 +1,3 @@
-def fizzbuzz()
-  puts 10
+def fizzbuzz(number)
+
 end
